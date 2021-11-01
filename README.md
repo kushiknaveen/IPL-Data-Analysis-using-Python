@@ -1,4 +1,4 @@
-# IPL Data Analysis using Python
+# IPL Data Analysis
 
 IPL 2008 - 2020 Matches Dataset has the following columns Summary:
 
